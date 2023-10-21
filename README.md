@@ -40,4 +40,4 @@ alias -mforward "-forward; checkback; alias checkforward"
 alias -mback "-back; checkforward; alias checkback"
 
 
-然后还有一些免费分享的软件都是自己在互联网上搜集到的 希望大家多多支持 个人推特@jesuitfaction 
+然后还有一些免费分享的软件都是自己在互联网上搜集到的 希望大家多多支持 个人推特@jesuitfaction 开源了没办法w
